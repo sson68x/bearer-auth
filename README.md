@@ -1,4 +1,4 @@
-# Lab: Class 0
+# Lab: Class 07
 
 ## Project: Bearer Authorization
 
